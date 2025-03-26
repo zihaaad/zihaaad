@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zihadul Islam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zihad
 =====================================================================================================================================
 
 Full Stack Web Developer
@@ -7,7 +7,7 @@ Full Stack Web Developer
 I've been learning to code for 2 years.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [myPortfolio](http://zihaad.netlify.app)
+* 🖥️  See my portfolio at [myPortfolio](https://codewithzihad.com)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
 * 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on complex projects
