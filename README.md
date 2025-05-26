@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Full Stack Web Developer
-------------------------
+-------------------------
 
-I've been learning to code for 2 years.
+I've been deeply involved in learning and developing full stack web applications for over 2 years.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [myPortfolio](https://codewithzihad.com)
+* 🖥️  See my portfolio at [codewithzihad.com](https://codewithzihad.com)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
 * 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on complex projects
