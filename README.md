@@ -4,7 +4,7 @@ Full Stack Web Engineer
 I've been deeply involved in learning and developing full stack web applications for over 2 years.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [codewithzihad.com](https://codewithzihad.com)
+* 🖥️  See my portfolio at [zihad.work](https://zihad.work)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
 * 🧠  I'm learning DevOps | DSA | System Design
 * 🤝  I'm open for freelance work now
