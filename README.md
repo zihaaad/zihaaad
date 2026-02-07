@@ -6,8 +6,7 @@ I've been deeply involved in learning and developing full stack web applications
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [zihad.work](https://zihad.work)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
-* 🧠  I'm learning DevOps | DSA | System Design
-* 🤝  I'm open for freelance work now
+* 🧠  I'm learning DevOps
 
 <a href="https://www.github.com/zihaaad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zihaaad?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
