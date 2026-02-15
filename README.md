@@ -1,7 +1,7 @@
 Full Stack Web Engineer
 -------------------------
 
-I've been deeply involved in learning and developing full stack web applications for over 2 years.
+I've been deeply involved in learning and developing full stack web applications for over 3 years.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [zihad.work](https://zihad.work)
