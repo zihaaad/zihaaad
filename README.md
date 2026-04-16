@@ -1,12 +1,12 @@
 Full Stack Web Engineer
 -------------------------
 
-I've been deeply involved in learning and developing full stack web applications for over 3 years.
+I've been deeply involved in learning and developing full stack web applications for over 4 years.
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [zihad.work](https://zihad.work)
+* 👨‍💻  CEO at Uddoktify
+* 🖥️  My portfolio [zihad.work](https://zihad.work)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
-* 🧠  I'm learning DevOps
+* 🧠  Currently focused on system scaliblity.
 
 <a href="https://www.github.com/zihaaad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zihaaad?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
