@@ -5,6 +5,7 @@ I've been deeply involved in learning and developing full stack web applications
 
 * 👨‍💻  CEO at Uddoktify
 * 🖥️  My portfolio [zihad.work](https://zihad.work)
+* 🤍  My Reflections [pov.zihad.work](https://pov.zihad.work)
 * ✉️  You can contact me at [codewithzihad@gmail.com](mailto:codewithzihad@gmail.com)
 * 🧠  Currently focused on system scaliblity.
 
