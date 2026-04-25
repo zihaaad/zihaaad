@@ -60,24 +60,24 @@ src="https://img.shields.io/github/followers/zihaaad?logo=github&style=for-the-b
   <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" hspace="6" />
   </a>
-  <a href="https://graphql.org/">
+  <!-- <a href="https://graphql.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" hspace="6" />
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" hspace="6" />
   </a>
-  <a href="https://www.postgresql.org/">
+  <!-- <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" hspace="6" />
-  </a>
+  </a> -->
   <a href="https://firebase.google.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" hspace="6" />
   </a>
   <a href="https://render.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" hspace="6" />
   </a>
-  <a href="https://supabase.io/">
+  <!-- <a href="https://supabase.io/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" hspace="6" />
-  </a>
+  </a> -->
   <a href="https://www.figma.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" hspace="6" />
   </a>
@@ -87,9 +87,9 @@ src="https://img.shields.io/github/followers/zihaaad?logo=github&style=for-the-b
   <a href="https://aws.amazon.com">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" hspace="6" />
   </a>
-  <a href="https://www.blender.org/">
+  <!-- <a href="https://www.blender.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" hspace="6" />
-  </a>
+  </a> -->
   <a href="https://www.digitalocean.com">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" hspace="6" />
   </a>
